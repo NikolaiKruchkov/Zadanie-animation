@@ -1,0 +1,20 @@
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation 2\bin\Debug\netcoreapp3.1\Zadanie animation 2.exe
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation 2\bin\Debug\netcoreapp3.1\Zadanie animation 2.deps.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation 2\bin\Debug\netcoreapp3.1\Zadanie animation 2.runtimeconfig.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation 2\bin\Debug\netcoreapp3.1\Zadanie animation 2.runtimeconfig.dev.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation 2\bin\Debug\netcoreapp3.1\Zadanie animation 2.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation 2\bin\Debug\netcoreapp3.1\Zadanie animation 2.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation 2\obj\Debug\netcoreapp3.1\Zadanie animation 2.csproj.AssemblyReference.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation 2\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation 2\obj\Debug\netcoreapp3.1\App.g.cs
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation 2\obj\Debug\netcoreapp3.1\Zadanie animation 2_MarkupCompile.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation 2\obj\Debug\netcoreapp3.1\Zadanie animation 2_MarkupCompile.lref
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation 2\obj\Debug\netcoreapp3.1\MainWindow.baml
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation 2\obj\Debug\netcoreapp3.1\Zadanie animation 2.g.resources
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation 2\obj\Debug\netcoreapp3.1\Zadanie animation 2.GeneratedMSBuildEditorConfig.editorconfig
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation 2\obj\Debug\netcoreapp3.1\Zadanie animation 2.AssemblyInfoInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation 2\obj\Debug\netcoreapp3.1\Zadanie animation 2.AssemblyInfo.cs
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation 2\obj\Debug\netcoreapp3.1\Zadanie animation 2.csproj.CoreCompileInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation 2\obj\Debug\netcoreapp3.1\Zadanie animation 2.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation 2\obj\Debug\netcoreapp3.1\Zadanie animation 2.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation 2\obj\Debug\netcoreapp3.1\Zadanie animation 2.genruntimeconfig.cache

@@ -1,0 +1,22 @@
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation\bin\Debug\net5.0-windows\Zadanie animation 1.exe
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation\bin\Debug\net5.0-windows\Zadanie animation 1.deps.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation\bin\Debug\net5.0-windows\Zadanie animation 1.runtimeconfig.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation\bin\Debug\net5.0-windows\Zadanie animation 1.runtimeconfig.dev.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation\bin\Debug\net5.0-windows\Zadanie animation 1.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation\bin\Debug\net5.0-windows\ref\Zadanie animation 1.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation\bin\Debug\net5.0-windows\Zadanie animation 1.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation\obj\Debug\net5.0-windows\Zadanie animation 1.csproj.AssemblyReference.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation\obj\Debug\net5.0-windows\MainWindow.g.cs
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation\obj\Debug\net5.0-windows\App.g.cs
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation\obj\Debug\net5.0-windows\Zadanie animation 1_MarkupCompile.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation\obj\Debug\net5.0-windows\Zadanie animation 1_MarkupCompile.lref
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation\obj\Debug\net5.0-windows\MainWindow.baml
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation\obj\Debug\net5.0-windows\Zadanie animation 1.g.resources
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation\obj\Debug\net5.0-windows\Zadanie animation 1.GeneratedMSBuildEditorConfig.editorconfig
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation\obj\Debug\net5.0-windows\Zadanie animation 1.AssemblyInfoInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation\obj\Debug\net5.0-windows\Zadanie animation 1.AssemblyInfo.cs
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation\obj\Debug\net5.0-windows\Zadanie animation 1.csproj.CoreCompileInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation\obj\Debug\net5.0-windows\Zadanie animation 1.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation\obj\Debug\net5.0-windows\ref\Zadanie animation 1.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation\obj\Debug\net5.0-windows\Zadanie animation 1.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\WPF\Задание 16\Zadanie animation\Zadanie animation\obj\Debug\net5.0-windows\Zadanie animation 1.genruntimeconfig.cache
